@@ -13,5 +13,5 @@ Works on all versions of Windows 10, where System Protection is enabled.
 # What does this PoC do ?
 This exploit will look through Volume Shadow Copy to extract registry hives like SAM
 
-#Picture
+# Picture
 ![image](https://user-images.githubusercontent.com/59793368/126884371-26ff69ba-253c-4507-a481-7daf436bfeae.png)

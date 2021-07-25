@@ -1,6 +1,4 @@
 import shutil
-import os
-import subprocess
 
 def make_copy(config_file):
     n=0

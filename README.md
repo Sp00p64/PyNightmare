@@ -11,7 +11,7 @@ Simple Poc for the HiveNightmare vulnerabilty inspired by @GossiTheDog.
 Works on all versions of Windows 10, where System Protection is enabled.
 
 # What does this PoC do ?
-This exploit will look through Volume Shadow Copy to extract registry hives like SAM
+This exploit will look through Volume Shadow Copy to extract SAM and System files
 
 # Picture
 ![image](https://user-images.githubusercontent.com/59793368/126884371-26ff69ba-253c-4507-a481-7daf436bfeae.png)
